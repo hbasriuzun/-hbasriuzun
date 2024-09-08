@@ -1,3 +1,6 @@
-# HI
+# Hello
 
-![3d](profile-3d-contrib/profile-night-rainbow.svg)
+![Leetcode Stats](https://leetcard.jacoblin.cool/hbasriuzun)
+
+## Kaggle:
+https://www.kaggle.com/hasanbasriuzun
